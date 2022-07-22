@@ -1,0 +1,4 @@
+#ignoro el scanner I2C
+I2C_scanner_esp8266
+
+*.txt
